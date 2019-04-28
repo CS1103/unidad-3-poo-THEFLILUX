@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/CLionProjects/PotencialElectrico/Carga.cpp
+cmath
+-
+simulador.h
+/home/jorge/CLionProjects/PotencialElectrico/simulador.h
+Carga.h
+/home/jorge/CLionProjects/PotencialElectrico/Carga.h
+
+/home/jorge/CLionProjects/PotencialElectrico/Carga.h
+simulador.h
+/home/jorge/CLionProjects/PotencialElectrico/simulador.h
+
+/home/jorge/CLionProjects/PotencialElectrico/main.cpp
+cstdlib
+-
+iostream
+-
+ctime
+-
+vector
+-
+simulador.h
+/home/jorge/CLionProjects/PotencialElectrico/simulador.h
+Carga.h
+/home/jorge/CLionProjects/PotencialElectrico/Carga.h
+
+/home/jorge/CLionProjects/PotencialElectrico/simulador.cpp
+cstdlib
+-
+ctime
+-
+simulador.h
+/home/jorge/CLionProjects/PotencialElectrico/simulador.h
+
+/home/jorge/CLionProjects/PotencialElectrico/simulador.h
+

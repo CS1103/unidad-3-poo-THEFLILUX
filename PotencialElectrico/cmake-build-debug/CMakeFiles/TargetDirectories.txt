@@ -1,0 +1,3 @@
+/home/jorge/CLionProjects/PotencialElectrico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jorge/CLionProjects/PotencialElectrico/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jorge/CLionProjects/PotencialElectrico/cmake-build-debug/CMakeFiles/PotencialElectrico.dir

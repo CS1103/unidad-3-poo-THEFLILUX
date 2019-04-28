@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PotencialElectrico.dir/main.cpp.o CMakeFiles/PotencialElectrico.dir/Carga.cpp.o CMakeFiles/PotencialElectrico.dir/simulador.cpp.o CMakeFiles/PotencialElectrico.dir/test.cpp.o  -o PotencialElectrico 
